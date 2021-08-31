@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#texto1 {
+    background-color: black;
+    color: white;
+    width: 22%;
+    margin: 3% 0 0 10px;
+    float: left;
+}
+
+#texto2 {
+    background-color: rgb(177, 179, 148);
+    color: white;
+    width: 48%;
+    float: right;
+}

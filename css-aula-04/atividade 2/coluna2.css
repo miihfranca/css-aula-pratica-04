@@ -1,0 +1,27 @@
+#colunas {
+    display: flex;
+}
+
+#a1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(19, 11, 9);
+    color: white;
+    text-align: center;
+}
+
+#b2 {
+    width: 250px;
+    height: 250px;
+    background-color:rgb(110, 172, 74);
+    color: white;
+    text-align: center;
+}
+
+#c3 {
+    width: 250px;
+    height: 250px;
+    background-color: #ccc;
+    color: white;
+    text-align: center;
+}
